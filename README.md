@@ -15,6 +15,13 @@ It is made up of undergraduate students from the electrical engineering course
 
 <a href="https://www.facebook.com/profile.php?id=61558689192613"><img src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/737e5603-e31f-416d-8ece-db86324e8ee2"> APPSE Technologies Facebook</a>
 
+
+
+--- 
+<p align="center">
+<img width="700px" src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/3bbcf1f9-9dab-4b5d-9d30-cfd3e167265f">
+</p>
+
 ---
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><span property="dct:title">APPSE Technologies</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p> 
