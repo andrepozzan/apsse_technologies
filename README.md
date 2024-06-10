@@ -16,6 +16,11 @@ It is made up of undergraduate students from the electrical engineering course
 <a href="https://www.facebook.com/profile.php?id=61558689192613"><img src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/737e5603-e31f-416d-8ece-db86324e8ee2"> APPSE Technologies Facebook</a>
 
 
+Watch the Freecad timelapse of the project's development:
+<a href="https://www.youtube.com/watch?v=BXJijYAY4U4">
+<img width="500px" src="https://img.youtube.com/vi/BXJijYAY4U4/maxresdefault.jpg"/>
+</a>
+
 
 --- 
 <p align="center">
