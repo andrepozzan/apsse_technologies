@@ -24,10 +24,25 @@ It is made up of undergraduate students from the electrical engineering course
 </a>
 
 
+
+### Watch the 5min PITCH of the startup:
+
+
+<a href="https://www.youtube.com/watch?v=EtGpsllvWcw">
+<img width="500px" src="https://img.youtube.com/vi/EtGpsllvWcw/maxresdefault.jpg"/>
+</a>
+
+
+## Technical drawings
+<img src="./technical-drawing/img/prancha1.svg">
+<img src="./technical-drawing/img/prancha2.svg">
+
+
 --- 
 <p align="center">
 <img width="700px" src="https://github.com/andrepozzan/apsse_technologies/assets/85946447/3bbcf1f9-9dab-4b5d-9d30-cfd3e167265f">
 </p>
+
 
 ---
 
